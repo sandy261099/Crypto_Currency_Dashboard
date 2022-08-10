@@ -4,6 +4,7 @@ Developed a dashboard to display the price of Crypto Currency in real-time.
 Real-time prices are retrieved from coingecko.com with the help of open source Rest API.
 Price updates of the digital currencies are executed with react hooks.
 
+You can visit the website by clicking [here](https://crypto-currency-dashboard1.herokuapp.com)
 
 Here is the display of how the dashboard looks.
 
